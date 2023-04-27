@@ -1,4 +1,4 @@
-ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+ID,Order ID,OrderDate,ShipDate,ShipMode,CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region,ProductID,Category,SubCategory,ProductName,Sales,Quantity,Discount,Profit
 1,7bf83a58-6c3d-4275-b037-e4512276a73b,2021-11-20,2022-04-12,First Class,585924,Patrick Tate,Consumer,Cuba,Jenniferville,New Mexico,76070,East,2f6137a6-ccbc-4b89-863b-930d376e2bde,Office Supplies,Accessories,Right-sized non-volatile migration,693.46,2,0.15,31.31
 2,13b97520-7445-4d62-8137-e32850beaed6,2023-01-21,2022-07-07,First Class,900121,Christina Martinez,Home Office,Guyana,North Leslie,Massachusetts,49454,East,c5df364f-f63d-4dc5-bad9-c7245233eb15,Technology,Storage,Multi-lateral systemic hierarchy,334.61,3,0.33,45.06
 3,7c7f1c42-24a3-40be-8454-5e415911a0b1,2021-09-08,2021-07-20,First Class,943188,Jennifer Patrick,Consumer,Spain,Mullinsshire,Maine,47941,North,9f059281-f073-4f43-b1a6-d9bee47141d3,Technology,Storage,Vision-oriented system-worthy infrastructure,506.59,3,0.28,15.04
